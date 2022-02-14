@@ -7,7 +7,7 @@ export interface Product {
 
 export const products = [
   {
-    id: 1,
+    id: 5,
     name: 'Phone XL',
     price: 799,
     description: 'A large phone with one of the best screens',
@@ -19,7 +19,7 @@ export const products = [
     description: 'A great phone with one of the best cameras',
   },
   {
-    id: 3,
+    id: 7,
     name: 'Phone Standard',
     price: 799,
     description: '',
